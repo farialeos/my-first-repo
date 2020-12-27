@@ -1,0 +1,23 @@
+commit c29b579e3ec6b7bb80e143b17ca1410c49ea6be1
+Author: farialeos <faria.leos@gmail.com>
+Date:   Sat Dec 26 15:44:07 2020 -0300
+
+    added test3.txt
+
+commit 2f17d827ed44d4a20360c2d9b533d7e6c959f8ed
+Author: farialeos <faria.leos@gmail.com>
+Date:   Sat Dec 26 15:37:23 2020 -0300
+
+    added gitignore
+
+commit 24c08c8ac9f88af79b1cc8d47afaf6531c867dcf
+Author: farialeos <faria.leos@gmail.com>
+Date:   Sat Dec 26 11:33:37 2020 -0300
+
+    added two files
+
+commit c451e7087a8d4b1e35e70a480e2b284c6ea6259b
+Author: farialeos <faria.leos@gmail.com>
+Date:   Sat Dec 26 11:24:59 2020 -0300
+
+    added readme.txt
