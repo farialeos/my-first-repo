@@ -1,30 +1,24 @@
-# This is a large heading
+# Leonardo Faria
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Porto Alegre, in the state of Rio Grande do Sul, in Brazil.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *Sidharta* by Hermann Hesse
+- *Harry Potter* by J. K. Rowling
+- *Gibi da Monica* by Paulo Coelho
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt about eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Tanuki in Sao Paulo.
+2. Tudo pelo Social in Porto Alegre.
+3. Primo Camilo in Garibaldi.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
 
-nano README.md
+The best way to get in touch with me is [on Linkedin] (https://www.linkedin.com/in/farialeos/).
+
